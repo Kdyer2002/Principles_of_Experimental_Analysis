@@ -9,10 +9,7 @@ This repository contains programming projects and assignments completed througho
 - Module 3: ANOVA Tables and Multiple Regression
 - Module 4: Regression Diagnostics and Polynomial Regression
 - Module 5: Dummy Variables and Model Selection
-- Analysis of Covariance (ANCOVA)
-- One-Way ANOVA
-- Multiple Comparison Techniques
-- Two-Way ANOVA
+- Exam 2: One Way ANOVA
 
 ## Technical Skills
 
